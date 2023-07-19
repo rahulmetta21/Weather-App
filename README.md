@@ -1,1 +1,1 @@
-NumberBomb Project
+WeatherApp Project
